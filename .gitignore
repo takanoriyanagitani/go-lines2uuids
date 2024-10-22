@@ -25,3 +25,4 @@ go.work.sum
 .env
 *.swp
 cmd/stdin2stdout/lines2sha256s2uuids/lines2sha256s2uuids
+cmd/stdin2stdout/lines2hex2uuids/lines2hex2uuids
